@@ -38,5 +38,6 @@ halfsubtractor(A,B,Diff,Bo):-
 
 
 
+
 ### Result:
 Thus the truth table of circuit verified sucessfully.
