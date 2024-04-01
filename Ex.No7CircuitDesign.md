@@ -34,7 +34,8 @@ halfsubtractor(A,B,Diff,Bo):-
     and(B,X,Bo).
 ```
 ### Output:
-![Uploading image.png…]()
+![image](https://github.com/GuruSelvam2003/AI_Lab_2023-24/assets/159774358/80884e40-cd21-46e2-91fe-5954a90c9384)
+
 
 
 
